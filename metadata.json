@@ -1,0 +1,9 @@
+{
+  "name": "AI Interviewer Pro",
+  "description": "A comprehensive AI-powered platform for interview preparation, resume optimization, and creative content generation. Conduct mock interviews with a virtual AI, get detailed feedback, and leverage Gemini to build a strong resume, generate images, and create videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
